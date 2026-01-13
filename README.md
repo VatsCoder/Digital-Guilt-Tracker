@@ -3,9 +3,9 @@
 > *"Track your feelings. Understand your guilt. Grow emotionally."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/digital-guilt-tracker)](https://github.com/VatsCoder/Digital-Guilt-Tracker/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/digital-guilt-tracker)](https://github.com/VatsCoder/Digital-Guilt-Tracker/pulls)
-[![Stars](https://img.shields.io/github/stars/yourusername/digital-guilt-tracker?style=social)](https://github.com/VatsCoder/digital-guilt-tracker/stargazers)
+[![Issues](https://img.shields.io/github/issues/VatsCoder/Digital-Guilt-Tracker)](https://github.com/VatsCoder/Digital-Guilt-Tracker/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/VatsCoder/Digital-Guilt-Tracker)](https://github.com/VatsCoder/Digital-Guilt-Tracker/pulls)
+[![Stars](https://img.shields.io/github/stars/VatsCoder/Digital-Guilt-Tracker?style=social)](https://github.com/VatsCoder/digital-guilt-tracker/stargazers)
 
 ---
 
