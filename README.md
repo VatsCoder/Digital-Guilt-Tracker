@@ -3,9 +3,9 @@
 > *"Track your feelings. Understand your guilt. Grow emotionally."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/digital-guilt-tracker)](https://github.com/yourusername/digital-guilt-tracker/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/digital-guilt-tracker)](https://github.com/yourusername/digital-guilt-tracker/pulls)
-[![Stars](https://img.shields.io/github/stars/yourusername/digital-guilt-tracker?style=social)](https://github.com/yourusername/digital-guilt-tracker/stargazers)
+[![Issues](https://img.shields.io/github/issues/yourusername/digital-guilt-tracker)](https://github.com/VatsCoder/Digital-Guilt-Tracker/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/digital-guilt-tracker)](https://github.com/VatsCoder/Digital-Guilt-Tracker/pulls)
+[![Stars](https://img.shields.io/github/stars/yourusername/digital-guilt-tracker?style=social)](https://github.com/VatsCoder/digital-guilt-tracker/stargazers)
 
 ---
 
@@ -68,13 +68,13 @@ python main.py
 ```
 
 ### 🗂️ Project Structure
-├── backend.py         # Handles DB + logic
-├── dashboard.py       # Dashboard GUI
-├── login.py           # Login / Signup
-├── history.py         # History viewer
-├── profile_details.py # Profile page
-├── main.py            # App launcher
-├── screens/           # UI screenshots
+├── backend.py         # Handles DB + logic \
+├── dashboard.py       # Dashboard GUI \
+├── login.py           # Login / Signup \
+├── history.py         # History viewer \
+├── profile_details.py # Profile page \
+├── main.py            # App launcher \
+├── screens/           # UI screenshots \
 └── README.md
 
 ### 🧪 Test It Yourself
