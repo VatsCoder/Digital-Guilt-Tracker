@@ -98,4 +98,4 @@ Make sure to check open issues before creating duplicates.
 
 This project is licensed under the MIT License
 
-## ⭐ If you find this project helpful, consider starring it and sharing it with others!
+> *"⭐ If you find this project helpful, consider starring it and sharing it with others!"*
