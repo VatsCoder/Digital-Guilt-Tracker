@@ -1,8 +1,8 @@
 import tkinter as tk
-import profile_details  # written by me
+import profile_details 
 
 def begin():
-    profile_details .show_profile_details(root)  # Show the profile details page/ written by me
+    profile_details .show_profile_details(root)  # Show the profile details page
 
 root = tk.Tk()
 root.geometry("800x600")
