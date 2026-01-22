@@ -78,7 +78,7 @@ python begin.py
 └── README.md
 
 ### 🧪 Test It Yourself
-1. Launch the app via main.py.
+1. Launch the app via begin.py.
 2. Sign up with a new username & password.
 3. Start logging your guilt and emotions daily.
 4. View weekly trends and history.
