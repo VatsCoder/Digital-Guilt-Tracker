@@ -64,7 +64,7 @@ pip install matplotlib
 
 ### ▶️ Run the App
 ```bash
-python main.py
+python begin.py
 ```
 
 ### 🗂️ Project Structure
