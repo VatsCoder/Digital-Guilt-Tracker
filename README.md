@@ -73,7 +73,7 @@ python begin.py
 ├── login.py           # Login / Signup \
 ├── history.py         # History viewer \
 ├── profile_details.py # Profile page \
-├── main.py            # App launcher \
+├── begin.py            # App launcher \
 ├── screens/           # UI screenshots \
 └── README.md
 
